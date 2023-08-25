@@ -1,1 +1,31 @@
-
+if game.PlaceId == 12533625712 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularRDev/DevHubV1/main/Loader/DevHubV1.lua"))()
+   elseif game.PlaceId == 6516141723 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularRDev/DevHubV1/main/Loader/DevHubV1.lua"))()
+   elseif game.PlaceId == 2753915549 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularRDev/DevHubV1/main/Loader/DevHubV1.lua"))()
+   elseif game.PlaceId == 4330397559 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularRDev/DevHubV1/main/Loader/DevHubV1.lua"))()
+   elseif game.PlaceId == 3956818381 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularRDev/DevHubV1/main/Loader/DevHubV1.lua"))()
+   elseif game.PlaceId == 2248408710 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularRDev/DevHubV1/main/Loader/DevHubV1.lua"))()
+   elseif game.PlaceId == 606849621 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularRDev/DevHubV1/main/Loader/DevHubV1.lua"))()
+   elseif game.PlaceId == 142823291 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularRDev/DevHubV1/main/Loader/DevHubV1.lua"))()
+   elseif game.PlaceId == 1962086868 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularRDev/DevHubV1/main/Loader/DevHubV1.lua"))()
+   elseif game.PlaceId == 6284583030 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularRDev/DevHubV1/main/Loader/DevHubV1.lua"))()
+   elseif game.PlaceId == 3101667897 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularRDev/DevHubV1/main/Loader/DevHubV1.lua"))()
+   elseif game.PlaceId == 7952502098 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularRDev/DevHubV1/main/Loader/DevHubV1.lua"))()
+   elseif game.PlaceId == 2629642516 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularRDev/DevHubV1/main/Loader/DevHubV1.lua"))()
+   elseif game.PlaceId == 4566572536 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularRDev/DevHubV1/main/Loader/DevHubV1.lua"))()
+   else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularRDev/DevHubV1/main/Notifiers/NotifierGame.lua"))()
+   end
