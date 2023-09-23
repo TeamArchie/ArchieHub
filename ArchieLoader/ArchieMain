@@ -26,7 +26,9 @@ if game.PlaceId == 12533625712 then
    loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/loader/ArchieHub"))()
    elseif game.PlaceId == 4566572536 then
    loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/loader/ArchieHub"))()
-   elseif game.PlaceId == 155382109 then
+   elseif game.PlaceId == 2092166489 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/loader/ArchieHub"))()
+   elseif game.PlaceId == 5740483929 then
    loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/loader/ArchieHub"))()
    else
    loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Notifiers/NotifierGame.lua"))()
