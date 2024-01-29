@@ -1,0 +1,39 @@
+if game.PlaceId == 12533625712 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/1.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/2.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/3.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/4.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/5.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/6.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/7.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/8.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/9.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/10.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/11.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/12.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/13.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/14.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/15.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/16.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/17.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/18.lua"))()
+else
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/19.lua"))()
+end
