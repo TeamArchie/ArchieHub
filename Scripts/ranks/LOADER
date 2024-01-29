@@ -1,4 +1,4 @@
-if game.PlaceId == 12533625712 then
+if game.PlaceId == 4330397559 then
    loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/1.lua"))()
 else
    loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/Scripts/ranks/2.lua"))()
