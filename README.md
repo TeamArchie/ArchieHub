@@ -7,7 +7,7 @@ Archie Hub is a free and Script's repository on only one Script.
 - https://discord.com/users/1014505549280317530 (Unknown, Scripter and Manager)
 - https://discord.com/users/928378911312724039 (Norietxy, Server Owner and Manager)
 
-## Main Loader
+## Main Loader (COPY THIS!)
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/ArchieLoader/ArchieMain"))()
 ```
