@@ -1,5 +1,3 @@
-[![discord server](https://cdn.discordapp.com/attachments/832371927740973078/1222400423214977094/Snapshot_19.png)](https://discord.gg/B7YBTTRvj4)
-
 # Archie Hub
 
 Archie Hub is a New and OP Script, original designed by dev.archie.
