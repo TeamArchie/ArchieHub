@@ -1,7 +1,8 @@
 # Archie Hub
 
-Archie Hub is a New and OP Script, original designed by dev.archie.
+Archie Hub is a New Script for Roblox, original created by dev.archie.
 
+- Not a really good script, but you can use it for test exploits or try to deobfuscate it
 - https://discord.gg/B7YBTTRvj4 (Server)
 - https://discord.com/users/658886385150853142 (Archie, Main Script Developer)
 - https://discord.com/users/1014505549280317530 (Unknown, Script Developer and Manager)
