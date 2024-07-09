@@ -13,7 +13,7 @@ Archie Hub is a New Script for Roblox, original created by dev.archie.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/ArchieLoader/ArchieMain"))()
 ```
 
-## Latest Update 4/5/2024:
+## Latest Update 9/7/2024:
 - Added Mad City script
 
 Current developers: dev.archie and circlees
