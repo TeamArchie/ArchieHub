@@ -14,7 +14,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/
 ```
 
 ## Latest Update 4/5/2024:
-- Added Prison life script
+- Added Mad City script
 
 Current developers: dev.archie and circlees
 For sponsors or something else (like work with us) contact dev.norietxy (our Script and Server Manager)
