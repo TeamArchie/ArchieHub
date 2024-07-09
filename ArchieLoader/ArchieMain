@@ -16,7 +16,6 @@ if game.PlaceId == 12533625712 then
    loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/loader/ArchieHub"))()
    elseif game.PlaceId == 155615604 then
    loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/loader/ArchieHubPrisonLife"))()
-   else
    elseif game.PlaceId == 1224212277 then
    loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/loader/ArchieHubMadCity"))()
    else
