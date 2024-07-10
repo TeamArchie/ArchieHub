@@ -1,2 +1,2 @@
-ArchieHubNewest its only for Prison life right now
-(6/7/24 or 7/6/24, i reobfuscated the Prison Life script aka ArchieHubNewest, so maybe this get broken)
+New script: ArchieHubMadCity
+Please join to my discord and tell me if this working, cuz i re-obfuscated it with another obfuscator, cuz MoonSec sucks to suck
