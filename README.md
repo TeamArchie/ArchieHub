@@ -13,8 +13,7 @@ Archie Hub is a New Script for Roblox, original created by dev.archie.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/ArchieLoader/ArchieMain"))()
 ```
 
-## Latest Update 18/9/2024:
+## Latest Update 26/9/2024:
 - All Script team is doing alot of testings, we already finished with Mad City and Prison life script, and now we are working with Drive World script!
 
-Current developers: dev.archie and circlees
-For sponsors or something else (like work with us) contact dev.norietxy (our Script and Server Manager)
+Developers: Archie, Circlees, Nor from Discord, Viper and Nexuz from Guilded
