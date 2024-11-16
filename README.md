@@ -13,7 +13,7 @@ Archie Hub is a New Script for Roblox, original created by dev.archie.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/ArchieLoader/ArchieMain"))()
 ```
 
-## Latest Update 26/9/2024:
-- All Script team is doing alot of testings, we already finished with Mad City and Prison life script, and now we are working with Drive World script!
+## Latest Update 15/11/2024:
+- Currently the entire development team is making a decision: Continue developing before the ban wave scheduled for next month OR wait for the ban wave to occur and then make the decision. This does not yet mean the discontinuation of the script, **just that we do not want to risk being permanently banned from Roblox. (We can bypass HWID Bans, but no IP Bans sadly**
 
 Developers: Archie, Circlees and Nor (Aka Norietxy) from Discord, Viper and Nexuz from Guilded
