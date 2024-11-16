@@ -16,4 +16,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/
 ## Latest Update 26/9/2024:
 - All Script team is doing alot of testings, we already finished with Mad City and Prison life script, and now we are working with Drive World script!
 
-Developers: Archie, Circlees, Nor from Discord, Viper and Nexuz from Guilded
+Developers: Archie, Circlees and Nor (Aka Norietxy) from Discord, Viper and Nexuz from Guilded
