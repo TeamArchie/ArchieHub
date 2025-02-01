@@ -1,1 +1,2 @@
-_G.currentversions = "2.4
+local currentversion = "2.5"
+_G.currentversion = "2.5"
