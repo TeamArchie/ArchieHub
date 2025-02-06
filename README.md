@@ -1,19 +1,20 @@
 # Archie Hub
 
-Archie Hub is a New Script for Roblox, original created by dev.archie.
+Archie Hub is a New Script for Roblox, original created by dev.senkauri.
 
 - Not a really good script, but you can use it for test exploits or idk
 - https://discord.gg/B7YBTTRvj4 (Server)
-- https://discord.com/users/658886385150853142 (Archie, Main Script Developer)
-- https://discord.com/users/1014505549280317530 (Unknown, Script Developer and Manager)
-- https://discord.com/users/928378911312724039 (Norietxy, Server Owner and Manager)
+- https://discord.com/users/658886385150853142 (SenKauri, Main Script Developer)
+- https://discord.com/users/1014505549280317530 (Circle, Script Developer and Manager)
+- https://discord.com/users/928378911312724039 (Norietxy, Server Holder)
+- https://discord.com/users/1298123988723175477 (RealViper, Script Developer)
 
-## Main Loader (DOWNED)
+## Main Loader (Only Prison Life is working)
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/main/ArchieLoader/ArchieMain"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/ArchieLoader/Main"))()
 ```
 
-## Latest Update 15/11/2024:
-- Currently the entire development team is making a decision: Continue developing before the ban wave scheduled for next month OR wait for the ban wave to occur and then make the decision. This does not yet mean the discontinuation of the script, **just that we do not want to risk being permanently banned from Roblox. (We can bypass HWID Bans, but no IP Bans sadly)**
+## Latest Update 6/2/2025:
+- Prison Life script added to the Main Loader, this means that you can use Archie Hub now but only supports Prison Life ATM (We are transfering Mad City script to another UI Library)
 
-Developers: Archie, Circlees and Nor (Aka Norietxy) from Discord, Viper and Nexuz from Guilded
+Developers: Archie, Circlees and RealViper from Discord, RealViper and Nexuz from Guilded
