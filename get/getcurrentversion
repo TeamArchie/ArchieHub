@@ -1,2 +1,2 @@
-local currentversion = "2.6"
-_G.currentversion = "2.6"
+local currentversion = "R2.6"
+_G.currentversion = "R2.6"
