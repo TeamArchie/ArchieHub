@@ -11,7 +11,7 @@ Archie Hub is a New Script for Roblox, original created by dev.senkauri.
 
 ## Main Loader (Ninja Legends and Prison Life)
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/ArchieLoader/Main"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/loader/Loader"))()
 ```
 
 ## Latest Update 17/2/2025:
