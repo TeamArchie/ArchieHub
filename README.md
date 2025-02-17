@@ -9,12 +9,12 @@ Archie Hub is a New Script for Roblox, original created by dev.senkauri.
 - https://discord.com/users/928378911312724039 (Norietxy, Server Holder)
 - https://discord.com/users/1298123988723175477 (RealViper, Script Developer)
 
-## Main Loader (Only Prison Life is working)
+## Main Loader (Ninja Legends and Prison Life)
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/ArchieLoader/Main"))()
 ```
 
-## Latest Update 6/2/2025:
-- Prison Life script added to the Main Loader, this means that you can use Archie Hub now but only supports Prison Life ATM (We are transfering Mad City script to another UI Library)
+## Latest Update 17/2/2025:
+- Ninja Legends script added to the Main Loader with up-to-date features! (Plus: New UI Library)
 
 Developers: Archie, Circlees and RealViper from Discord, RealViper and Nexuz from Guilded
