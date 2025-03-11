@@ -1,7 +1,5 @@
 if game.PlaceId == 3956818381 then
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/ArchieLoader/NinjaLegends"))()
-elseif game.PlaceId == 155615604 then
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/ArchieLoader/PrisonLife"))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/Games/NinjaLegends.lua"))()
 else
    game.Players.LocalPlayer:Kick("This game is not supported by Archie Hub, please join Ninja Legends or Prison Life to use this script")
 end
