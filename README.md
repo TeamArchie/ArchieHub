@@ -14,7 +14,7 @@ Archie Hub is a New Script for Roblox, original created by dev.senkauri.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/loader/Loader"))()
 ```
 
-## Latest Update 17/2/2025:
+## Latest Update 22/03/2025:
 - Gunfight Arena script released (HOT RELEASE, Sadly there is FPS Drop issues :sob:)
 
 Developers: Archie, Circlees and RealViper from Discord, RealViper and Nexuz from Guilded
