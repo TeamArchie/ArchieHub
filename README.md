@@ -9,12 +9,12 @@ Archie Hub is a New Script for Roblox, original created by dev.senkauri.
 - https://discord.com/users/928378911312724039 (Norietxy, Server Holder)
 - https://discord.com/users/1298123988723175477 (RealViper, Script Developer)
 
-## Main Loader (Ninja Legends and Prison Life)
+## Main Loader (Ninja Legends, Prison Life and Gunfight Arena)
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/loader/Loader"))()
 ```
 
 ## Latest Update 17/2/2025:
-- Ninja Legends script added to the Main Loader with up-to-date features! (Plus: New UI Library)
+- Gunfight Arena script released (HOT RELEASE, Sadly there is FPS Drop issues :sob:)
 
 Developers: Archie, Circlees and RealViper from Discord, RealViper and Nexuz from Guilded
