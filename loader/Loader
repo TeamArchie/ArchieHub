@@ -3,8 +3,10 @@ if game.PlaceId == 3956818381 then
  elseif game.PlaceId == 155615604 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/Games/PrisonLife.lua"))()
  elseif game.PlaceId == 14518422161 then
+    warn("Phase 1")
     https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/ScriptPhases/GunfightArenaPhase1
     wait(2)
+    warn("Phase 2")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/Games/GunfightArena.lua"))()
  else
     game.Players.LocalPlayer:Kick("This game is not supported by Archie Hub, please join to a supported game to use this script")
