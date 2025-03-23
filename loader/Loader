@@ -4,7 +4,7 @@ if game.PlaceId == 3956818381 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/Games/PrisonLife.lua"))()
  elseif game.PlaceId == 14518422161 then
     warn("Phase 1")
-    https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/ScriptPhases/GunfightArenaPhase1
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/ScriptPhases/GunfightArenaPhase1"))()
     wait(2)
     warn("Phase 2")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/Games/GunfightArena.lua"))()
