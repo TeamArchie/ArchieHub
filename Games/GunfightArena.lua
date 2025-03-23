@@ -1,5 +1,5 @@
 print("Phase 1")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/Games/GunfightArenaPhase1"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/Games/GunfightArenaPhase1.lua"))()
 wait(2)
 print("Phase 2")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/Games/GunfightArenaPhase2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/Games/GunfightArenaPhase2.lua"))()
