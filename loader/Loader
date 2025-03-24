@@ -2,6 +2,9 @@ if game.PlaceId == 3956818381 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/Games/NinjaLegends.lua"))()
  elseif game.PlaceId == 155615604 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/Games/PrisonLife.lua"))()
+ elseif game.PlaceId == 14518422161 or 16390384148 or 15514727567 then
+    print("Starting Loader")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/Games/GunfightArena.lua"))()
  else
     game.Players.LocalPlayer:Kick("This game is not supported by Archie Hub, please join to a supported game to use this script")
  end
