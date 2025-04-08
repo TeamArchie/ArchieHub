@@ -56,6 +56,7 @@ local function createParticleEffects(screenGui: ScreenGui, onSuccess: () -> ()?)
 				(startY + (y * sizeValue)) / viewportSize.Y
 			)
 			frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+			frame.BackgroundTransparency = 0.2
 			frame.AnchorPoint = Vector2.new(0.5, 0.5)
 			frame.Name = "TemporaryOverlayFrame"
 			frame.Parent = screenGui
