@@ -1,3 +1,6 @@
+--- This code is from Roblox Devforum: https://devforum.roblox.com/t/screen-overlay-open-source/3556911
+--- I only changed Line 203 Default Image to Archie Hub logo
+
 local screenOverlayHandler = {
 	_rotationActive = true,
 	_rotationThread = nil,
