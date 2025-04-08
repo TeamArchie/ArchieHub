@@ -1,5 +1,5 @@
 --- This code is from Roblox Devforum: https://devforum.roblox.com/t/screen-overlay-open-source/3556911
---- I only changed Line 203 Default Image to Archie Hub logo
+--- I only changed Line 203 Default Image to Archie Hub logo and added background transparency
 
 local screenOverlayHandler = {
 	_rotationActive = true,
@@ -56,6 +56,7 @@ local function createParticleEffects(screenGui: ScreenGui, onSuccess: () -> ()?)
 				(startY + (y * sizeValue)) / viewportSize.Y
 			)
 			frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+			frame.BackgroundTransparency = 0.2
 			frame.AnchorPoint = Vector2.new(0.5, 0.5)
 			frame.Name = "TemporaryOverlayFrame"
 			frame.Parent = screenGui
@@ -169,6 +170,7 @@ function screenOverlayHandler:Start(message: string?)
 	self._frame.AnchorPoint = Vector2.new(0.5, 0.5)
 	self._frame.Size = UDim2.fromOffset(0, 0)
 	self._frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+	self._frame.BackgroundTransparency = 0.2
 	self._frame.Position = UDim2.fromScale(0.5, 0.5)
 	self._frame.Parent = self._screenGui
 
