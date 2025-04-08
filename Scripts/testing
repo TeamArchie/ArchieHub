@@ -201,7 +201,7 @@ function screenOverlayHandler:Start(message: string?)
 		image.BackgroundTransparency = 1
 		image.Parent = self._frame
 
-		local maxSizePercent = 0.50
+		local maxSizePercent = 0.22
 		local viewportSize = cam.ViewportSize
 		local sizeValue = math.ceil(math.max(viewportSize.X * maxSizePercent, viewportSize.Y * maxSizePercent))
 
