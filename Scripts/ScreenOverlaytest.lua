@@ -169,7 +169,7 @@ function screenOverlayHandler:Start(message: string?)
 	self._frame.AnchorPoint = Vector2.new(0.5, 0.5)
 	self._frame.Size = UDim2.fromOffset(0, 0)
 	self._frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-	self._frame.BackgroundTransparency = 0.4
+	self._frame.BackgroundTransparency = 0.2
 	self._frame.Position = UDim2.fromScale(0.5, 0.5)
 	self._frame.Parent = self._screenGui
 
