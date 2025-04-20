@@ -1,3 +1,3 @@
 local Sound = Instance.new("Sound",game:GetService("SoundService"))
-Sound.SoundId = "rbxassetid://255881176"
+Sound.SoundId = "rbxassetid://4590657391"
 Sound:Play()
