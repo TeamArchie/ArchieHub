@@ -14,7 +14,10 @@ Archie Hub is a New Script for Roblox, original created by dev.senkauri.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/loader/Loader"))()
 ```
 
-## Latest Update 21/03/2025:
-- Gunfight Arena script released (HOT RELEASE, Sadly there is FPS Drop issues :sob:)
-
+## Latest Update 5/05/2025: (Forgot to update ts)
+- Gunfight Arena Silent aimbot removed due to: FPS Drop issues
+- Added ScreenOverlay (Loading Screen) for Ninja Legends script (will be added soon to the other scripts)
+- Gunfight Arena will always updated to the latest game version
+- Attempt to fix some executors issues while loading Main Loader
+- Reworked almost all functions for Ninja Legends features
 Developers: Archie, Circlees and RealViper from Discord, RealViper and Nexuz from Guilded
