@@ -1,5 +1,6 @@
 --[[
 
+That's interesting...
 Script Version: V3.0 Stable
 discord.gg/25ms
 discord.gg/B7YBTTRvj4
