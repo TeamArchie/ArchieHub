@@ -14,10 +14,25 @@ Archie Hub is a New Script for Roblox, original created by dev.senkauri.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamArchie/ArchieHub/refs/heads/main/loader/Loader"))()
 ```
 
-## Latest Update 5/05/2025: (Forgot to update ts)
-- Gunfight Arena Silent aimbot removed due to: FPS Drop issues
-- Added ScreenOverlay (Loading Screen) for Ninja Legends script (will be added soon to the other scripts)
-- Gunfight Arena will always updated to the latest game version
-- Attempt to fix some executors issues while loading Main Loader
-- Reworked almost all functions for Ninja Legends features
+## Latest Update 16/05/2025:
+- Switched to Syde UI Library, like Centrl but more completed
+Reworked all functions
+- Fix FPS Drops for some specific executors (just in case)
+- **Built-In User suggestions, basically, we implemented with this new update a feature that users can send feedback/issues and more directly to us!**
+Basically:
+- New UI Lib
+- Reworked Features
+- Fix for FPS Drops on some specific executors
+- Removed ScreenOverlay
+- Removed 2 useless features
+- Fixed Dark Karma Chest
+- Added Built-in User Suggestions (To send feedback/issues directly to us!)
+- Anti AFK On background (it is already implemented on the first release of this script lmao)
+And last thing maded at 16/05/2025 at 2:17 am (Night)
+Changed a few things:
+- User suggestions --> Suggestions/Issues
+- Stable R3.0 --> Stable R3.1!
+- Separated Suggestions, check image
+![image](https://github.com/user-attachments/assets/5114fdc2-4037-45d0-9b5f-31ca6b4c6917)
+
 Developers: Archie, Circlees and RealViper from Discord, RealViper and Nexuz from Guilded
