@@ -1,4 +1,0 @@
-local blacklistedUsers = {
-    {443eb522-4b32-475a-bb6a-991e1caa102a},
-    443eb522-4b32-475a-bb6a-991e1caa102a
-}
