@@ -1,0 +1,6 @@
+local Sound = Instance.new("Sound", game.CoreGui)
+Sound.SoundId = "rbxassetid://3318713980"
+Sound.Volume = 2
+
+Sound.PlayOnRemove = true
+Sound:Destroy()
